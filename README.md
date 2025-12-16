@@ -1,4 +1,4 @@
-bro how to organize these tools like backend frontend  the others their names like this is the githup readme md file <h1 align="center">Hi 👋, I'm Hamdi Nur</h1>
+ <h1 align="center">Hi 👋, I'm Hamdi Nur</h1>
 <h3 align="center">A passionate Full Stack developer from Mogadisho</h3>
 
 
