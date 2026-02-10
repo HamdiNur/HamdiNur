@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Event Managment System](https://github.com/somnog/Event-Registration-System)
 
-- 🌱 I’m currently learning **Nestjs,flask,**
+- 🌱 I’m currently learning **Nestjs,Angular,**
 
 - 👯 I’m looking to collaborate on **MicroFinance**
 
