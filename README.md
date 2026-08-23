@@ -19,8 +19,8 @@
 
 - 🎓 **BSc Computer Science** — Jamhuriya University, Mogadishu (2025)
 - 🏆 **Certificate of Appreciation** — University Automation System project (Dec 2025)
-- 🔭 Currently building an **Event Management System** & expanding my **Microfinance Platform**
-- 🌱 Currently learning **NestJS · Angular · Spring Boot**
+- 🔭 Currently building **DevPulse**, a real-time system/API monitoring dashboard, & expanding my **Microfinance Platform**
+- 🌱 Currently learning **Redis · CI/CD · Angular · Spring Boot**
 - 💬 Ask me about **MERN Stack · Flutter · AI Integration · PHP · PostgreSQL**
 - 📫 Reach me at **hamdoonur26@gmail.com**
 
@@ -30,10 +30,11 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [📊 DevPulse](https://github.com/HamdiNur) | Real-time system/API monitoring dashboard | Angular · Spring Boot · Redis |
 | [🤖 SomaJob AI](https://github.com/HamdiNur/SomaJobAi) | AI-powered job matching platform | JavaScript · AI Integration |
 | [🏥 Maternal Health AI](https://github.com/HamdiNur/maternal-health-ai) | AI app supporting maternal healthcare | JavaScript · AI |
 | [🔬 Research Agent](https://github.com/HamdiNur/Research-Agent) | Autonomous AI research agent | JavaScript · Agentic AI |
-| [💰 Microfinance System](https://github.com/HamdiNur) | Full fintech platform — web, mobile & backend | React · Node.js · Flutter · MongoDB |
+| [💰 Microfinance System](https://github.com/HamdiNur/Microfanance-web) | Full fintech platform — web, mobile & backend | React · Node.js · Flutter · MongoDB |
 | [🎓 University Automation ⭐](https://github.com/HamdiNur/Automation-Certificate) | Automated certificate issuance system | React · Flutter · Node.js · Firebase |
 | [🛒 Product Store (PERN)](https://github.com/HamdiNur/Product-Store) | E-commerce app with full CRUD | React · TailwindCSS · Node.js · PostgreSQL |
 | [💸 Expense Tracker](https://github.com/HamdiNur/Expense-trucker) | Personal finance tracker with auth | Next.js · PostgreSQL · Prisma · Clerk |
@@ -49,6 +50,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -59,6 +61,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -67,11 +70,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
