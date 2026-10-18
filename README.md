@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamdi Nur</h1>
-<h3 align="center">Full-Stack Developer | AI & Fintech Enthusiast | Mogadishu, Somalia 🇸🇴</h3>
+<h3 align="center">Full-Stack & Mobile Developer | AI & Fintech Enthusiast | Mogadishu, Somalia 🇸🇴</h3>
 
 <p align="center">
   <a href="https://personal-portfolio-sarf.vercel.app/" target="_blank">
@@ -20,7 +20,8 @@
 - 🎓 **BSc Computer Science** — Jamhuriya University, Mogadishu (2025)
 - 🏆 **Certificate of Appreciation** — University Automation System project (Dec 2025)
 - 🔭 Currently building **DevPulse**, a real-time system/API monitoring dashboard, & expanding my **Microfinance Platform**
-- 🌱 Currently learning **Redis · CI/CD · Angular · Spring Boot**
+- 📱 Practicing **React Native** by building mobile e-commerce apps: **Bloom Flower Shop** (done) and a **Jewelry Store** (next)
+- 🌱 Currently learning **React Native · Expo · Redis · CI/CD · Angular · Spring Boot**
 - 💬 Ask me about **MERN Stack · Flutter · AI Integration · PHP · PostgreSQL**
 - 📫 Reach me at **hamdoonur26@gmail.com**
 
@@ -31,6 +32,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [📊 DevPulse](https://github.com/HamdiNur) | Real-time system/API monitoring dashboard | Angular · Spring Boot · Redis |
+| [🌸 Bloom Flower Shop](https://github.com/HamdiNur/flower-shop) | Mobile flower shop app with search, favorites, cart, checkout, order history and offline storage | React Native · Expo · Context API · AsyncStorage |
 | [🤖 SomaJob AI](https://github.com/HamdiNur/SomaJobAi) | AI-powered job matching platform | JavaScript · AI Integration |
 | [🏥 Maternal Health AI](https://github.com/HamdiNur/maternal-health-ai) | AI app supporting maternal healthcare | JavaScript · AI |
 | [🔬 Research Agent](https://github.com/HamdiNur/Research-Agent) | Autonomous AI research agent | JavaScript · Agentic AI |
@@ -46,8 +48,10 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
